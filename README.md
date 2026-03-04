@@ -100,14 +100,6 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
 
 ---
 
-## 📖 Author of Books
-
-1. *LAST SIX DAYS*
-2. *THE LOVE I CANT HOLD*
-3. *THE TUNNEL PARADOX*
-4. *I KILLED MYSELF*
-5. *THE FALL OF YASAKA*
-6. *IS THIS FIRST ?*
 
 
 ## 📊 GitHub Stats
