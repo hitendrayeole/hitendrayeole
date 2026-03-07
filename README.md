@@ -1,49 +1,69 @@
-<h1 align="center">Hi 👋, I'm Hitendra Yeole</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+# Hi there, I'm Hitendra Yeole! 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;AI+%26+IoT+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hitendrayeole&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/hitendrayeole?tab=followers">
+    <img src="https://img.shields.io/github/followers/hitendrayeole?label=Followers&style=social" alt="GitHub Badge" />
+  </a>
+  <a href="https://twitter.com/hitendrayeole">
+    <img src="https://img.shields.io/twitter/follow/hitendrayeole?style=social" alt="Twitter" />
   </a>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:">
+  <a href="mailto:hitendra.yeole@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="">
+  <a href="https://linkedin.com/in/hitendrayeole">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/hitendrayeole">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/hitendrayeole">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ## 💫 About Me
 
-I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
-- 🏢 I currently work as a *Mentor & Trainer, delivering technical guidance and project-based learning under **DevineTech Solutions*, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with *Dexpert Systems*, contributing to development and learning in advanced system design and modern technology stacks.
+- 🏢 Currently working as a **Mentor & Trainer** at **DevineTech Solutions**, delivering technical guidance and project-based learning with a focus on practical development and industry-ready skills.
+- 💼 Also actively contributing to **Dexpert Systems** as a Developer, diving into advanced system design and modern technology stacks.
+- 🔭 I’m currently working on **AI-assisted development tools** and **IoT-based automation systems**.
+- 🌱 I’m continuously learning **Cloud Architecture** and **Machine Learning** to integrate intelligence into scalable apps.
+- 👯 I’m looking to collaborate on **Open Source projects** that make a difference.
+- 💬 Ask me about **Full Stack Development, Mentoring, System Design, and IoT**.
+- 📫 How to reach me: **hitendra.yeole@example.com** (update with actual email)
+- ⚡ Fun fact: I love teaching complex concepts through simple real-world projects.
 
 ### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
+- 🌐 Full Stack Web Development (React, Node.js, Next.js, Express)
 - 🎓 Mentoring & Training aspiring developers
 - 🏗️ Project Architecture & System Design
-- 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
+- 🤖 IoT and Automation (Patented projects)
+- 🔬 Research-oriented problem-solving
 
 ### 🚀 Interests
 - 🤖 AI-assisted systems & automation
 - 🧩 Clean code, system thinking, and product mindset
 - 📚 Teaching through real projects
+- 🌍 Open source contribution
 
 ### 📌 Philosophy
 > "Build with purpose. Learn continuously. Teach what you master."
 
-<br>
+---
 
 ## 💻 Tech Stack
 
@@ -54,11 +74,19 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br>
   <!-- Frontend & Backend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <br>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB" />
   <br>
   <!-- Data Science & ML -->
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -70,7 +98,7 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>
@@ -79,54 +107,118 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<br>
+---
+
+## 📌 Pinned Repositories
+
+<!-- Replace with actual pinned repos using github-readme-stats cards -->
+<p align="center">
+  <a href="https://github.com/hitendrayeole/FLAT-MATE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=FLAT-MATE&theme=dark&border_radius=10" alt="FLAT MATE" />
+  </a>
+  <a href="https://github.com/hitendrayeole/NODE-NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=NODE-NET&theme=dark&border_radius=10" alt="NODE NET" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hitendrayeole/ENGIWORLD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=ENGIWORLD&theme=dark&border_radius=10" alt="ENGIWORLD" />
+  </a>
+  <a href="https://github.com/hitendrayeole/TEAMO-DIY-STORE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=TEAMO-DIY-STORE&theme=dark&border_radius=10" alt="TEAMO :DIY STORE" />
+  </a>
+</p>
+
+> ⚡ Check out all my repositories [here](https://github.com/hitendrayeole?tab=repositories).
+
+---
 
 ## 🚀 Upcoming Projects
 
-1. *FLAT MATE* - [Upcoming]
-2. *NODE NET* - [Upcoming]
-3. *ENGIWORLD* - [Upcoming]
-4. *TEAMO :DIY STORE* - [Upcoming]
-5. *DAILY ROUTINE TRACKER* - [Upcoming]
+1. **FLAT MATE** - A smart platform for flat sharing and roommate management.
+2. **NODE NET** - A decentralized network monitoring tool.
+3. **ENGIWORLD** - An educational platform for engineering students.
+4. **TEAMO :DIY STORE** - E-commerce for DIY enthusiasts.
+5. **DAILY ROUTINE TRACKER** - A personal productivity assistant.
 
 ---
 
 ## 🛠️ IoT Projects (Patented)
 
-1. *WOMEN SAFETY DEVICE* 
-2. *IOT BASED NOVEL SCENNER*
+1. **WOMEN SAFETY DEVICE** - IoT-based wearable for real-time safety alerts.
+2. **IOT BASED NOVEL SCANNER** - Smart scanning system for inventory management.
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
-  
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitendrayeole&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendrayeole&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<br>
-
-
-
-<br>
-
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendrayeole&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hitendrayeole&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="45%" />
+</p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitendrayeole&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" width="100%">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Uncomment if you have a GitHub Action set up for snake animation -->
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitendrayeole/hitendrayeole/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitendrayeole/hitendrayeole/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hitendrayeole/hitendrayeole/output/github-contribution-grid-snake.svg">
+  </picture>
+</p> -->
+
+---
+
+## 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be auto-updated if you set up a blog post workflow -->
+- [Coming soon: My journey into AI-assisted development](#)
+- [How I mentor new developers effectively](#)
+- [IoT for beginners: Building a smart device](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🤝 Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hitendrayeole">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/hitendrayeole">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
+  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing together! 🚀</i>
+  <br><br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </div>
