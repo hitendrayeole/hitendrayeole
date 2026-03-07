@@ -7,16 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitendrayeole&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/hitendrayeole?tab=followers"><img src="https://img.shields.io/github/followers/hitendrayeole?label=Followers&style=social" alt="GitHub Badge" /></a>
-  <a href="https://twitter.com/hitendrayeole"><img src="https://img.shields.io/twitter/follow/hitendrayeole?style=social" alt="Twitter" /></a>
-</p>
-
-<p align="center">
-  <a href="mailto:hitendra.yeole@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/hitendrayeole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/hitendrayeole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/hitendrayeole"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:hitendrahemrajyeole2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hitendrahemrajyeole/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/hitendrahyeole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/hitendra_yeole/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ## 💫 About Me
@@ -28,7 +22,7 @@ I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technic
 - 🌱 I’m continuously learning **Cloud Architecture** and **Machine Learning** to integrate intelligence into scalable apps.
 - 👯 I’m looking to collaborate on **Open Source projects** that make a difference.
 - 💬 Ask me about **Full Stack Development, Mentoring, System Design, and IoT**.
-- 📫 How to reach me: **hitendra.yeole@example.com** (update with actual email)
+- 📫 How to reach me: **hitendrahemrajyeole2006@gmail.com**
 - ⚡ Fun fact: I love teaching complex concepts through simple real-world projects.
 
 ### 💻 What I Do
@@ -81,14 +75,99 @@ I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technic
 </p>
 
 ## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/hitendrayeole/FLAT-MATE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=FLAT-MATE&theme=dark&border_radius=10" alt="FLAT MATE" /></a>
-  <a href="https://github.com/hitendrayeole/NODE-NET"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=NODE-NET&theme=dark&border_radius=10" alt="NODE NET" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/hitendrayeole/ENGIWORLD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=ENGIWORLD&theme=dark&border_radius=10" alt="ENGIWORLD" /></a>
-  <a href="https://github.com/hitendrayeole/TEAMO-DIY-STORE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=TEAMO-DIY-STORE&theme=dark&border_radius=10" alt="TEAMO :DIY STORE" /></a>
-</p>
+<style>
+  .repo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  .repo-card {
+    border: 2px solid #30363d;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: #0d1117;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+  }
+  .repo-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px -8px rgba(0,255,153,0.3);
+    border-color: #00FF99;
+  }
+  .repo-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #00FF99;
+  }
+  .repo-desc {
+    color: #8b949e;
+    margin-bottom: 16px;
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+  .badge-group {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .badge-group img {
+    height: 22px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+
+<div class="repo-grid">
+  <a href="https://github.com/hitendrayeole/FLAT-MATE">
+    <div class="repo-card">
+      <div class="repo-name">🏠 FLAT MATE</div>
+      <div class="repo-desc">Smart flat sharing & roommate management platform with AI recommendations.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
+  </a>
+  <a href="https://github.com/hitendrayeole/NODE-NET">
+    <div class="repo-card">
+      <div class="repo-name">🌐 NODE NET</div>
+      <div class="repo-desc">Decentralized network monitoring tool with real-time alerts and visualization.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/NODE-NET?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/NODE-NET?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/NODE-NET?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
+  </a>
+  <a href="https://github.com/hitendrayeole/ENGIWORLD">
+    <div class="repo-card">
+      <div class="repo-name">📚 ENGIWORLD</div>
+      <div class="repo-desc">Educational platform for engineering students with interactive labs and resources.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
+  </a>
+  <a href="https://github.com/hitendrayeole/TEAMO-DIY-STORE">
+    <div class="repo-card">
+      <div class="repo-name">🛠️ TEAMO :DIY STORE</div>
+      <div class="repo-desc">E-commerce for DIY enthusiasts – tools, tutorials, and project kits.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
+  </a>
+</div>
+
 > ⚡ Check out all my repositories [here](https://github.com/hitendrayeole?tab=repositories).
 
 ## 🚀 Upcoming Projects
@@ -115,15 +194,9 @@ I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technic
 ## 💬 Random Dev Quote
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /></p>
 
-## 🤝 Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hitendrayeole"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-  <a href="https://ko-fi.com/hitendrayeole"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-</p>
-
 ---
 
 <div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing together! 🚀</i><br>
+  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing together! 🚀</i><br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </div>
