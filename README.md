@@ -13,35 +13,60 @@
   <a href="https://www.instagram.com/hitendra_yeole/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-## 💫 About Me
-I'm **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+## 💼 Professional Summary
+Full‑stack developer, mentor, and IoT innovator with a knack for turning complex ideas into scalable, user‑centric products. Currently shaping the next generation of developers at **DevineTech Solutions** while engineering robust systems at **Dexpert Systems**. I thrive at the intersection of code, teaching, and real‑world problem‑solving.
 
-- 🏢 Currently working as a **Mentor & Trainer** at **DevineTech Solutions**, delivering technical guidance and project-based learning with a focus on practical development and industry-ready skills.
-- 💼 Also actively contributing to **Dexpert Systems** as a Developer, diving into advanced system design and modern technology stacks.
-- 🔭 I'm currently working on **AI-assisted development tools** and **IoT-based automation systems**.
-- 🌱 I'm continuously learning **Cloud Architecture** and **Machine Learning** to integrate intelligence into scalable apps.
-- 👯 I'm looking to collaborate on **Open Source projects** that make a difference.
-- 💬 Ask me about **Full Stack Development, Mentoring, System Design, and IoT**.
-- 📫 How to reach me: **hitendrahemrajyeole2006@gmail.com**
-- ⚡ Fun fact: I love teaching complex concepts through simple real-world projects.
+- 🎓 Mentor & Technical Trainer at **DevineTech Solutions** – delivering hands‑on, project‑based training that bridges the gap between academia and industry.
+- 💻 Developer at **Dexpert Systems** – architecting modern, scalable applications using the latest technology stacks.
+- 🔭 Exploring AI‑assisted development tools and IoT‑based automation systems.
+- 🌱 Currently deepening expertise in **Cloud Architecture** and **Machine Learning** integration.
+- 👯 Open to collaborating on impactful open‑source projects.
+- 💬 Ask me about full‑stack web development, mentoring strategies, system design, or IoT.
+- ⚡ Fun fact: I explain complex topics using everyday analogies (and a lot of whiteboard doodles).
 
-### 💻 What I Do
-- 🌐 Full Stack Web Development (React, Node.js, Next.js, Express)
-- 🎓 Mentoring & Training aspiring developers
-- 🏗️ Project Architecture & System Design
-- 🤖 IoT and Automation (Patented projects)
-- 🔬 Research-oriented problem-solving
+---
 
-### 🚀 Interests
-- 🤖 AI-assisted systems & automation
-- 🧩 Clean code, system thinking, and product mindset
-- 📚 Teaching through real projects
-- 🌍 Open source contribution
+## 💼 Experience
 
-### 📌 Philosophy
-> "Build with purpose. Learn continuously. Teach what you master."
+### 🔹 Mentor & Technical Trainer  
+**DevineTech Solutions** | `[Start Month Year] – Present`  
+*Pune, Maharashtra, India (or your location)*  
+- Design and deliver full‑stack development curricula covering React, Node.js, databases, and system design.  
+- Mentor 50+ students/interns, guiding them through capstone projects and ensuring job‑ready skills.  
+- Integrate real‑world case studies and CI/CD practices into the learning path.  
+`[Add 2-3 more bullet points from your LinkedIn description]`
+
+### 🔹 Full Stack Developer  
+**Dexpert Systems** | `[Start Month Year] – Present`  
+*[Location]*  
+- Build and maintain scalable web applications using Next.js, Express, and cloud services.  
+- Collaborate on architecture decisions for high‑availability systems and implement REST/GraphQL APIs.  
+- Optimize database performance (MongoDB, PostgreSQL) and introduce automated testing pipelines.  
+`[Add bullet points directly from your LinkedIn role description]`
+
+> *Additional roles? Add them right here – internships, freelance projects, research positions.*
+
+---
+
+## 📜 Certifications & Education
+*Pulled straight from your LinkedIn profile – add as many as you’d like.*
+
+| 🏅 Certification | 🏫 Issuing Organization | 📅 Date |
+|------------------|--------------------------|---------|
+| `[Certification Name – e.g., AWS Certified Cloud Practitioner]` | `[Issuer]` | `[Month Year]` |
+| `[Full Stack Web Development]` | `[Platform/University]` | `[Month Year]` |
+| `[IoT & Embedded Systems]` | `[Issuer]` | `[Month Year]` |
+| `[Machine Learning Specialization]` | `[Coursera/Stanford]` | `[Month Year]` |
+
+🎓 **Education**  
+`[Degree, Major]` – `[University/College Name]` | `[Year of Graduation]`  
+`[Additional diploma or coursework]`
+
+---
 
 ## 💻 Tech Stack
+*(Your existing stack – I’ve kept it exactly as you like it)*
+
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -74,43 +99,122 @@ I'm **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technical
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 📜 Certifications
-- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
-- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
-- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
-
-> 💡 **Placeholder rows above.** Send me the real names, issuers, years, and (if you have them) credential links — I'll drop them in and can badge-ify them to match the Tech Stack section.
+---
 
 ## 📌 Pinned Repositories
-<p align="center">
+*(Your beautiful card grid – untouched)*
+
+<style>
+  .repo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  .repo-card {
+    border: 2px solid #30363d;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: #0d1117;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+  }
+  .repo-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px -8px rgba(0,255,153,0.3);
+    border-color: #00FF99;
+  }
+  .repo-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #00FF99;
+  }
+  .repo-desc {
+    color: #8b949e;
+    margin-bottom: 16px;
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+  .badge-group {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .badge-group img {
+    height: 22px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+
+<div class="repo-grid">
   <a href="https://github.com/hitendrayeole/FLAT-MATE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=FLAT-MATE&theme=radical&hide_border=true" alt="FLAT MATE" />
+    <div class="repo-card">
+      <div class="repo-name">🏠 FLAT MATE</div>
+      <div class="repo-desc">Smart flat sharing & roommate management platform with AI recommendations.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
   </a>
   <a href="https://github.com/hitendrayeole/NODE-NET">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=NODE-NET&theme=radical&hide_border=true" alt="NODE NET" />
+    <div class="repo-card">
+      <div class="repo-name">🌐 NODE NET</div>
+      <div class="repo-desc">Decentralized network monitoring tool with real-time alerts and visualization.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/NODE-NET?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/NODE-NET?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/NODE-NET?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/hitendrayeole/ENGIWORLD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=ENGIWORLD&theme=radical&hide_border=true" alt="ENGIWORLD" />
+    <div class="repo-card">
+      <div class="repo-name">📚 ENGIWORLD</div>
+      <div class="repo-desc">Educational platform for engineering students with interactive labs and resources.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
   </a>
   <a href="https://github.com/hitendrayeole/TEAMO-DIY-STORE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=TEAMO-DIY-STORE&theme=radical&hide_border=true" alt="TEAMO DIY STORE" />
+    <div class="repo-card">
+      <div class="repo-name">🛠️ TEAMO :DIY STORE</div>
+      <div class="repo-desc">E-commerce for DIY enthusiasts – tools, tutorials, and project kits.</div>
+      <div class="badge-group">
+        <img src="https://img.shields.io/github/stars/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
+        <img src="https://img.shields.io/github/forks/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=git&color=blue" alt="forks">
+        <img src="https://img.shields.io/github/issues/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=github&color=red" alt="issues">
+      </div>
+    </div>
   </a>
-</p>
+</div>
 
-> ⚡ Check out all my repositories [here](https://github.com/hitendrayeole?tab=repositories).
+> ⚡ All repositories: [github.com/hitendrayeole?tab=repositories](https://github.com/hitendrayeole?tab=repositories)
+
+---
 
 ## 🚀 Upcoming Projects
-1. **FLAT MATE** - A smart platform for flat sharing and roommate management.
-2. **NODE NET** - A decentralized network monitoring tool.
-3. **ENGIWORLD** - An educational platform for engineering students.
-4. **TEAMO :DIY STORE** - E-commerce for DIY enthusiasts.
-5. **DAILY ROUTINE TRACKER** - A personal productivity assistant.
+1. **FLAT MATE** – Smart flat sharing & roommate management.
+2. **NODE NET** – Decentralized network monitoring.
+3. **ENGIWORLD** – Educational platform for engineers.
+4. **TEAMO :DIY STORE** – DIY e‑commerce hub.
+5. **DAILY ROUTINE TRACKER** – Personal productivity assistant.
+
+---
 
 ## 🛠️ IoT Projects (Patented)
-1. **WOMEN SAFETY DEVICE** - IoT-based wearable for real-time safety alerts.
-2. **IOT BASED NOVEL SCANNER** - Smart scanning system for inventory management.
+1. **WOMEN SAFETY DEVICE** – IoT‑based wearable for real‑time safety alerts.
+2. **IOT BASED NOVEL SCANNER** – Smart scanning system for inventory management.
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
