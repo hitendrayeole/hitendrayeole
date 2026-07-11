@@ -14,13 +14,13 @@
 </p>
 
 ## 💫 About Me
-I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I'm **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
 - 🏢 Currently working as a **Mentor & Trainer** at **DevineTech Solutions**, delivering technical guidance and project-based learning with a focus on practical development and industry-ready skills.
 - 💼 Also actively contributing to **Dexpert Systems** as a Developer, diving into advanced system design and modern technology stacks.
-- 🔭 I’m currently working on **AI-assisted development tools** and **IoT-based automation systems**.
-- 🌱 I’m continuously learning **Cloud Architecture** and **Machine Learning** to integrate intelligence into scalable apps.
-- 👯 I’m looking to collaborate on **Open Source projects** that make a difference.
+- 🔭 I'm currently working on **AI-assisted development tools** and **IoT-based automation systems**.
+- 🌱 I'm continuously learning **Cloud Architecture** and **Machine Learning** to integrate intelligence into scalable apps.
+- 👯 I'm looking to collaborate on **Open Source projects** that make a difference.
 - 💬 Ask me about **Full Stack Development, Mentoring, System Design, and IoT**.
 - 📫 How to reach me: **hitendrahemrajyeole2006@gmail.com**
 - ⚡ Fun fact: I love teaching complex concepts through simple real-world projects.
@@ -74,99 +74,30 @@ I’m **Hitendra Yeole**, a passionate Full Stack Developer, Mentor, and Technic
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 📌 Pinned Repositories
-<style>
-  .repo-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    margin: 20px 0;
-  }
-  .repo-card {
-    border: 2px solid #30363d;
-    border-radius: 16px;
-    padding: 20px;
-    background-color: #0d1117;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: center;
-  }
-  .repo-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 12px 24px -8px rgba(0,255,153,0.3);
-    border-color: #00FF99;
-  }
-  .repo-name {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #00FF99;
-  }
-  .repo-desc {
-    color: #8b949e;
-    margin-bottom: 16px;
-    font-size: 0.9em;
-    line-height: 1.4;
-  }
-  .badge-group {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
-  }
-  .badge-group img {
-    height: 22px;
-  }
-  a {
-    text-decoration: none;
-  }
-</style>
+## 📜 Certifications
+- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
+- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
+- 🏅 **[Certification Name]** — Issuing Organization (Year) · [Credential →](#)
 
-<div class="repo-grid">
+> 💡 **Placeholder rows above.** Send me the real names, issuers, years, and (if you have them) credential links — I'll drop them in and can badge-ify them to match the Tech Stack section.
+
+## 📌 Pinned Repositories
+<p align="center">
   <a href="https://github.com/hitendrayeole/FLAT-MATE">
-    <div class="repo-card">
-      <div class="repo-name">🏠 FLAT MATE</div>
-      <div class="repo-desc">Smart flat sharing & roommate management platform with AI recommendations.</div>
-      <div class="badge-group">
-        <img src="https://img.shields.io/github/stars/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
-        <img src="https://img.shields.io/github/forks/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=git&color=blue" alt="forks">
-        <img src="https://img.shields.io/github/issues/hitendrayeole/FLAT-MATE?style=for-the-badge&logo=github&color=red" alt="issues">
-      </div>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=FLAT-MATE&theme=radical&hide_border=true" alt="FLAT MATE" />
   </a>
   <a href="https://github.com/hitendrayeole/NODE-NET">
-    <div class="repo-card">
-      <div class="repo-name">🌐 NODE NET</div>
-      <div class="repo-desc">Decentralized network monitoring tool with real-time alerts and visualization.</div>
-      <div class="badge-group">
-        <img src="https://img.shields.io/github/stars/hitendrayeole/NODE-NET?style=for-the-badge&logo=starship&color=yellow" alt="stars">
-        <img src="https://img.shields.io/github/forks/hitendrayeole/NODE-NET?style=for-the-badge&logo=git&color=blue" alt="forks">
-        <img src="https://img.shields.io/github/issues/hitendrayeole/NODE-NET?style=for-the-badge&logo=github&color=red" alt="issues">
-      </div>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=NODE-NET&theme=radical&hide_border=true" alt="NODE NET" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/hitendrayeole/ENGIWORLD">
-    <div class="repo-card">
-      <div class="repo-name">📚 ENGIWORLD</div>
-      <div class="repo-desc">Educational platform for engineering students with interactive labs and resources.</div>
-      <div class="badge-group">
-        <img src="https://img.shields.io/github/stars/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=starship&color=yellow" alt="stars">
-        <img src="https://img.shields.io/github/forks/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=git&color=blue" alt="forks">
-        <img src="https://img.shields.io/github/issues/hitendrayeole/ENGIWORLD?style=for-the-badge&logo=github&color=red" alt="issues">
-      </div>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=ENGIWORLD&theme=radical&hide_border=true" alt="ENGIWORLD" />
   </a>
   <a href="https://github.com/hitendrayeole/TEAMO-DIY-STORE">
-    <div class="repo-card">
-      <div class="repo-name">🛠️ TEAMO :DIY STORE</div>
-      <div class="repo-desc">E-commerce for DIY enthusiasts – tools, tutorials, and project kits.</div>
-      <div class="badge-group">
-        <img src="https://img.shields.io/github/stars/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=starship&color=yellow" alt="stars">
-        <img src="https://img.shields.io/github/forks/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=git&color=blue" alt="forks">
-        <img src="https://img.shields.io/github/issues/hitendrayeole/TEAMO-DIY-STORE?style=for-the-badge&logo=github&color=red" alt="issues">
-      </div>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendrayeole&repo=TEAMO-DIY-STORE&theme=radical&hide_border=true" alt="TEAMO DIY STORE" />
   </a>
-</div>
+</p>
 
 > ⚡ Check out all my repositories [here](https://github.com/hitendrayeole?tab=repositories).
 
